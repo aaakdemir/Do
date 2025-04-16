@@ -1,0 +1,3 @@
+React component for the Do application web preview
+...
+(Tüm React kodu buraya gelir)

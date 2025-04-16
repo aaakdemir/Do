@@ -1,0 +1,3 @@
+JavaScript logic for DoSense Agent
+...
+(DoSense Agent akış kodu buraya gelir)
